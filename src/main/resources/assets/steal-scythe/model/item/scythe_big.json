@@ -1,0 +1,6 @@
+{
+  "parent": "steal-scythe:item/large_item_handheld",
+  "textures": {
+    "layer0": "steal-scythe:item/scythe_big"
+  }
+}
